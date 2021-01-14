@@ -5,7 +5,7 @@ process.env.JWT_EXPIRY = '3m'
 
 require('dotenv').config()
 
-process.env.TEST_DB_URL = process.env.TEST_DB_URL
+process.env.TEST_DATABASE_URL = process.env.TEST_DATABASE_URL
   || "postgresql://dunder-mifflin@localhost/spaced-repetition-test"
 
 const { expect } = require('chai')
