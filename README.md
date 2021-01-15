@@ -1,5 +1,9 @@
 # Spaced repetition API!
 
+- [Live_App](https://spaced-repetition-client-bay.vercel.app/register)
+- [Server_Side_Repo](https://github.com/jvaughan007/spaced-repetition-api)
+- [Client_Side_Repo](https://github.com/jvaughan007/spaced-repetition-client)
+
 ## Local dev setup
 
 If using user `dunder-mifflin`:
@@ -50,5 +54,3 @@ Run the tests mode `npm test`
 Run the migrations up `npm run migrate`
 
 Run the migrations down `npm run migrate -- 0`
-
-### \i C:/Users/jvaug/projects/spaced-repetition-api/seeds/seed.tables.sql
